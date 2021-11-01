@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dave Trainer</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Dave Trainer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Nov 2021 11:29:04 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Nov 2021 11:31:57 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Blog</title>
+      <link>http://www.example.com/posts/new-blog/</link>
+      <pubDate>Mon, 01 Nov 2021 11:29:04 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/new-blog/</guid>
+      <description>This is tes blog post.</description>
+    </item>
+    
+  </channel>
+</rss>
